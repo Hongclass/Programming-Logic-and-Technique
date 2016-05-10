@@ -1,0 +1,10 @@
+E:\COD CLASS\Programming Logic and Technique\Assignment\lab 7\Rainfall Statistics\Rainfall Statistics\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\COD CLASS\Programming Logic and Technique\Assignment\lab 7\Rainfall Statistics\Rainfall Statistics\obj\x86\Debug\Rainfall_Statistics.Resources.resources
+E:\COD CLASS\Programming Logic and Technique\Assignment\lab 7\Rainfall Statistics\Rainfall Statistics\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\COD CLASS\Programming Logic and Technique\Assignment\lab 7\Rainfall Statistics\Rainfall Statistics\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\COD CLASS\Programming Logic and Technique\Assignment\lab 7\Rainfall Statistics\Rainfall Statistics\bin\Debug\Rainfall Statistics.exe
+E:\COD CLASS\Programming Logic and Technique\Assignment\lab 7\Rainfall Statistics\Rainfall Statistics\bin\Debug\Rainfall Statistics.pdb
+E:\COD CLASS\Programming Logic and Technique\Assignment\lab 7\Rainfall Statistics\Rainfall Statistics\bin\Debug\Rainfall Statistics.xml
+E:\COD CLASS\Programming Logic and Technique\Assignment\lab 7\Rainfall Statistics\Rainfall Statistics\obj\x86\Debug\Rainfall Statistics.exe
+E:\COD CLASS\Programming Logic and Technique\Assignment\lab 7\Rainfall Statistics\Rainfall Statistics\obj\x86\Debug\Rainfall Statistics.xml
+E:\COD CLASS\Programming Logic and Technique\Assignment\lab 7\Rainfall Statistics\Rainfall Statistics\obj\x86\Debug\Rainfall Statistics.pdb

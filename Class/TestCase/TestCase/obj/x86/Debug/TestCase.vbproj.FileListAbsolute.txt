@@ -1,0 +1,10 @@
+C:\Users\winxp\Desktop\TestCase\TestCase\bin\Debug\TestCase.exe
+C:\Users\winxp\Desktop\TestCase\TestCase\bin\Debug\TestCase.pdb
+C:\Users\winxp\Desktop\TestCase\TestCase\bin\Debug\TestCase.xml
+C:\Users\winxp\Desktop\TestCase\TestCase\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\winxp\Desktop\TestCase\TestCase\obj\x86\Debug\TestCase.Resources.resources
+C:\Users\winxp\Desktop\TestCase\TestCase\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\winxp\Desktop\TestCase\TestCase\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\winxp\Desktop\TestCase\TestCase\obj\x86\Debug\TestCase.exe
+C:\Users\winxp\Desktop\TestCase\TestCase\obj\x86\Debug\TestCase.xml
+C:\Users\winxp\Desktop\TestCase\TestCase\obj\x86\Debug\TestCase.pdb

@@ -1,0 +1,13 @@
+J:\Programming Logic and Technique\Assignment\lab 6\calcAverageScore\calcAverageScore\obj\x86\Debug\ResolveAssemblyReference.cache
+J:\Programming Logic and Technique\Assignment\lab 6\calcAverageScore\calcAverageScore\obj\x86\Debug\calcAverageScore.Resources.resources
+J:\Programming Logic and Technique\Assignment\lab 6\calcAverageScore\calcAverageScore\obj\x86\Debug\GenerateResource.read.1.tlog
+J:\Programming Logic and Technique\Assignment\lab 6\calcAverageScore\calcAverageScore\obj\x86\Debug\GenerateResource.write.1.tlog
+J:\Programming Logic and Technique\Assignment\lab 6\calcAverageScore\calcAverageScore\bin\Debug\calcAverageScore.exe
+J:\Programming Logic and Technique\Assignment\lab 6\calcAverageScore\calcAverageScore\bin\Debug\calcAverageScore.pdb
+J:\Programming Logic and Technique\Assignment\lab 6\calcAverageScore\calcAverageScore\bin\Debug\calcAverageScore.xml
+J:\Programming Logic and Technique\Assignment\lab 6\calcAverageScore\calcAverageScore\obj\x86\Debug\calcAverageScore.exe
+J:\Programming Logic and Technique\Assignment\lab 6\calcAverageScore\calcAverageScore\obj\x86\Debug\calcAverageScore.xml
+J:\Programming Logic and Technique\Assignment\lab 6\calcAverageScore\calcAverageScore\obj\x86\Debug\calcAverageScore.pdb
+E:\COD CLASS\Programming Logic and Technique\Assignment\lab 6\calcAverageScore\calcAverageScore\obj\x86\Debug\calcAverageScore.exe
+E:\COD CLASS\Programming Logic and Technique\Assignment\lab 6\calcAverageScore\calcAverageScore\obj\x86\Debug\calcAverageScore.xml
+E:\COD CLASS\Programming Logic and Technique\Assignment\lab 6\calcAverageScore\calcAverageScore\obj\x86\Debug\calcAverageScore.pdb

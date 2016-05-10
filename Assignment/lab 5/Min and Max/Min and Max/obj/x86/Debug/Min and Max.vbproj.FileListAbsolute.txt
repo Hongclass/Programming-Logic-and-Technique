@@ -1,0 +1,10 @@
+E:\COD CLASS\Programming Logic and Technique\Assignment\lab 5\Min and Max\Min and Max\bin\Debug\Min and Max.exe
+E:\COD CLASS\Programming Logic and Technique\Assignment\lab 5\Min and Max\Min and Max\bin\Debug\Min and Max.pdb
+E:\COD CLASS\Programming Logic and Technique\Assignment\lab 5\Min and Max\Min and Max\bin\Debug\Min and Max.xml
+E:\COD CLASS\Programming Logic and Technique\Assignment\lab 5\Min and Max\Min and Max\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\COD CLASS\Programming Logic and Technique\Assignment\lab 5\Min and Max\Min and Max\obj\x86\Debug\Min_and_Max.Resources.resources
+E:\COD CLASS\Programming Logic and Technique\Assignment\lab 5\Min and Max\Min and Max\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\COD CLASS\Programming Logic and Technique\Assignment\lab 5\Min and Max\Min and Max\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\COD CLASS\Programming Logic and Technique\Assignment\lab 5\Min and Max\Min and Max\obj\x86\Debug\Min and Max.exe
+E:\COD CLASS\Programming Logic and Technique\Assignment\lab 5\Min and Max\Min and Max\obj\x86\Debug\Min and Max.xml
+E:\COD CLASS\Programming Logic and Technique\Assignment\lab 5\Min and Max\Min and Max\obj\x86\Debug\Min and Max.pdb

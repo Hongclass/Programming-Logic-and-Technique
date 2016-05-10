@@ -1,0 +1,10 @@
+E:\COD CLASS\Programming Logic and Technique\Assignment\lab 8\Average of Numbers\Average of Numbers\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\COD CLASS\Programming Logic and Technique\Assignment\lab 8\Average of Numbers\Average of Numbers\obj\x86\Debug\Average_of_Numbers.Resources.resources
+E:\COD CLASS\Programming Logic and Technique\Assignment\lab 8\Average of Numbers\Average of Numbers\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\COD CLASS\Programming Logic and Technique\Assignment\lab 8\Average of Numbers\Average of Numbers\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\COD CLASS\Programming Logic and Technique\Assignment\lab 8\Average of Numbers\Average of Numbers\bin\Debug\Average of Numbers.exe
+E:\COD CLASS\Programming Logic and Technique\Assignment\lab 8\Average of Numbers\Average of Numbers\bin\Debug\Average of Numbers.pdb
+E:\COD CLASS\Programming Logic and Technique\Assignment\lab 8\Average of Numbers\Average of Numbers\bin\Debug\Average of Numbers.xml
+E:\COD CLASS\Programming Logic and Technique\Assignment\lab 8\Average of Numbers\Average of Numbers\obj\x86\Debug\Average of Numbers.exe
+E:\COD CLASS\Programming Logic and Technique\Assignment\lab 8\Average of Numbers\Average of Numbers\obj\x86\Debug\Average of Numbers.xml
+E:\COD CLASS\Programming Logic and Technique\Assignment\lab 8\Average of Numbers\Average of Numbers\obj\x86\Debug\Average of Numbers.pdb

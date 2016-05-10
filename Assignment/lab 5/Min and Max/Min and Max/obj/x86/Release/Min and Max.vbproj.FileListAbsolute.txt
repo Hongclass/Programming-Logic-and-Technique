@@ -1,0 +1,20 @@
+C:\Documents and Settings\Jianhua Jiang\Local Settings\Application Data\Temporary Projects\Min and Max\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Jianhua Jiang\Local Settings\Application Data\Temporary Projects\Min and Max\obj\x86\Release\Min_and_Max.Resources.resources
+C:\Documents and Settings\Jianhua Jiang\Local Settings\Application Data\Temporary Projects\Min and Max\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Documents and Settings\Jianhua Jiang\Local Settings\Application Data\Temporary Projects\Min and Max\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Documents and Settings\Jianhua Jiang\Local Settings\Application Data\Temporary Projects\Min and Max\bin\Release\Min and Max.exe
+C:\Documents and Settings\Jianhua Jiang\Local Settings\Application Data\Temporary Projects\Min and Max\bin\Release\Min and Max.pdb
+C:\Documents and Settings\Jianhua Jiang\Local Settings\Application Data\Temporary Projects\Min and Max\bin\Release\Min and Max.xml
+C:\Documents and Settings\Jianhua Jiang\Local Settings\Application Data\Temporary Projects\Min and Max\obj\x86\Release\Min and Max.exe
+C:\Documents and Settings\Jianhua Jiang\Local Settings\Application Data\Temporary Projects\Min and Max\obj\x86\Release\Min and Max.xml
+C:\Documents and Settings\Jianhua Jiang\Local Settings\Application Data\Temporary Projects\Min and Max\obj\x86\Release\Min and Max.pdb
+E:\COD CLASS\Programming Logic and Technique\Assignment\lab 5\Min and Max\Min and Max\obj\x86\Release\Min and Max.exe
+E:\COD CLASS\Programming Logic and Technique\Assignment\lab 5\Min and Max\Min and Max\obj\x86\Release\Min and Max.xml
+E:\COD CLASS\Programming Logic and Technique\Assignment\lab 5\Min and Max\Min and Max\obj\x86\Release\Min and Max.pdb
+E:\COD CLASS\Programming Logic and Technique\Assignment\lab 5\Min and Max\Min and Max\bin\Release\Min and Max.exe
+E:\COD CLASS\Programming Logic and Technique\Assignment\lab 5\Min and Max\Min and Max\bin\Release\Min and Max.pdb
+E:\COD CLASS\Programming Logic and Technique\Assignment\lab 5\Min and Max\Min and Max\bin\Release\Min and Max.xml
+E:\COD CLASS\Programming Logic and Technique\Assignment\lab 5\Min and Max\Min and Max\obj\x86\Release\ResolveAssemblyReference.cache
+E:\COD CLASS\Programming Logic and Technique\Assignment\lab 5\Min and Max\Min and Max\obj\x86\Release\Min_and_Max.Resources.resources
+E:\COD CLASS\Programming Logic and Technique\Assignment\lab 5\Min and Max\Min and Max\obj\x86\Release\GenerateResource.read.1.tlog
+E:\COD CLASS\Programming Logic and Technique\Assignment\lab 5\Min and Max\Min and Max\obj\x86\Release\GenerateResource.write.1.tlog

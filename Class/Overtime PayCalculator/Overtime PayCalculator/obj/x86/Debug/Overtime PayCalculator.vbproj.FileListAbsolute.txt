@@ -1,0 +1,13 @@
+C:\Users\winxp\Desktop\Overtime PayCalculator\Overtime PayCalculator\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\winxp\Desktop\Overtime PayCalculator\Overtime PayCalculator\obj\x86\Debug\Overtime_PayCalculator.Resources.resources
+C:\Users\winxp\Desktop\Overtime PayCalculator\Overtime PayCalculator\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\winxp\Desktop\Overtime PayCalculator\Overtime PayCalculator\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\winxp\Desktop\Overtime PayCalculator\Overtime PayCalculator\bin\Debug\Overtime PayCalculator.exe
+C:\Users\winxp\Desktop\Overtime PayCalculator\Overtime PayCalculator\bin\Debug\Overtime PayCalculator.pdb
+C:\Users\winxp\Desktop\Overtime PayCalculator\Overtime PayCalculator\bin\Debug\Overtime PayCalculator.xml
+C:\Users\winxp\Desktop\Overtime PayCalculator\Overtime PayCalculator\obj\x86\Debug\Overtime PayCalculator.exe
+C:\Users\winxp\Desktop\Overtime PayCalculator\Overtime PayCalculator\obj\x86\Debug\Overtime PayCalculator.xml
+C:\Users\winxp\Desktop\Overtime PayCalculator\Overtime PayCalculator\obj\x86\Debug\Overtime PayCalculator.pdb
+E:\COD CLASS\Programming Logic and Technique\Class\Overtime PayCalculator\Overtime PayCalculator\obj\x86\Debug\Overtime PayCalculator.exe
+E:\COD CLASS\Programming Logic and Technique\Class\Overtime PayCalculator\Overtime PayCalculator\obj\x86\Debug\Overtime PayCalculator.xml
+E:\COD CLASS\Programming Logic and Technique\Class\Overtime PayCalculator\Overtime PayCalculator\obj\x86\Debug\Overtime PayCalculator.pdb

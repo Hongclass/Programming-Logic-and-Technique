@@ -1,0 +1,10 @@
+I:\Programming Logic and Technique\Assignment\lab 9\sort names and name search\sort names and name search\bin\Debug\sort names and name search.exe
+I:\Programming Logic and Technique\Assignment\lab 9\sort names and name search\sort names and name search\bin\Debug\sort names and name search.pdb
+I:\Programming Logic and Technique\Assignment\lab 9\sort names and name search\sort names and name search\bin\Debug\sort names and name search.xml
+I:\Programming Logic and Technique\Assignment\lab 9\sort names and name search\sort names and name search\obj\x86\Debug\ResolveAssemblyReference.cache
+I:\Programming Logic and Technique\Assignment\lab 9\sort names and name search\sort names and name search\obj\x86\Debug\sort_names_and_name_search.Resources.resources
+I:\Programming Logic and Technique\Assignment\lab 9\sort names and name search\sort names and name search\obj\x86\Debug\GenerateResource.read.1.tlog
+I:\Programming Logic and Technique\Assignment\lab 9\sort names and name search\sort names and name search\obj\x86\Debug\GenerateResource.write.1.tlog
+I:\Programming Logic and Technique\Assignment\lab 9\sort names and name search\sort names and name search\obj\x86\Debug\sort names and name search.exe
+I:\Programming Logic and Technique\Assignment\lab 9\sort names and name search\sort names and name search\obj\x86\Debug\sort names and name search.xml
+I:\Programming Logic and Technique\Assignment\lab 9\sort names and name search\sort names and name search\obj\x86\Debug\sort names and name search.pdb

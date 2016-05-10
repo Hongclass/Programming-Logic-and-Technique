@@ -1,0 +1,10 @@
+E:\COD CLASS\Programming Logic and Technique\Assignment\lab 7\rainfall-2\rainfall-2\bin\Debug\rainfall-2.exe
+E:\COD CLASS\Programming Logic and Technique\Assignment\lab 7\rainfall-2\rainfall-2\bin\Debug\rainfall-2.pdb
+E:\COD CLASS\Programming Logic and Technique\Assignment\lab 7\rainfall-2\rainfall-2\bin\Debug\rainfall-2.xml
+E:\COD CLASS\Programming Logic and Technique\Assignment\lab 7\rainfall-2\rainfall-2\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\COD CLASS\Programming Logic and Technique\Assignment\lab 7\rainfall-2\rainfall-2\obj\x86\Debug\rainfall_2.Resources.resources
+E:\COD CLASS\Programming Logic and Technique\Assignment\lab 7\rainfall-2\rainfall-2\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\COD CLASS\Programming Logic and Technique\Assignment\lab 7\rainfall-2\rainfall-2\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\COD CLASS\Programming Logic and Technique\Assignment\lab 7\rainfall-2\rainfall-2\obj\x86\Debug\rainfall-2.exe
+E:\COD CLASS\Programming Logic and Technique\Assignment\lab 7\rainfall-2\rainfall-2\obj\x86\Debug\rainfall-2.xml
+E:\COD CLASS\Programming Logic and Technique\Assignment\lab 7\rainfall-2\rainfall-2\obj\x86\Debug\rainfall-2.pdb

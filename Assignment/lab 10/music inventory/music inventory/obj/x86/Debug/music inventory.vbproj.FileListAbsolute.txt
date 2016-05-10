@@ -1,0 +1,10 @@
+I:\Programming Logic and Technique\Assignment\lab 10\music inventory\music inventory\bin\Debug\music inventory.exe
+I:\Programming Logic and Technique\Assignment\lab 10\music inventory\music inventory\bin\Debug\music inventory.pdb
+I:\Programming Logic and Technique\Assignment\lab 10\music inventory\music inventory\bin\Debug\music inventory.xml
+I:\Programming Logic and Technique\Assignment\lab 10\music inventory\music inventory\obj\x86\Debug\ResolveAssemblyReference.cache
+I:\Programming Logic and Technique\Assignment\lab 10\music inventory\music inventory\obj\x86\Debug\music_inventory.Resources.resources
+I:\Programming Logic and Technique\Assignment\lab 10\music inventory\music inventory\obj\x86\Debug\GenerateResource.read.1.tlog
+I:\Programming Logic and Technique\Assignment\lab 10\music inventory\music inventory\obj\x86\Debug\GenerateResource.write.1.tlog
+I:\Programming Logic and Technique\Assignment\lab 10\music inventory\music inventory\obj\x86\Debug\music inventory.exe
+I:\Programming Logic and Technique\Assignment\lab 10\music inventory\music inventory\obj\x86\Debug\music inventory.xml
+I:\Programming Logic and Technique\Assignment\lab 10\music inventory\music inventory\obj\x86\Debug\music inventory.pdb

@@ -1,0 +1,13 @@
+C:\Users\winxp\Desktop\Lab_3\Lab 3\Property Tax\Property Tax\bin\Debug\Property Tax.exe
+C:\Users\winxp\Desktop\Lab_3\Lab 3\Property Tax\Property Tax\bin\Debug\Property Tax.pdb
+C:\Users\winxp\Desktop\Lab_3\Lab 3\Property Tax\Property Tax\bin\Debug\Property Tax.xml
+C:\Users\winxp\Desktop\Lab_3\Lab 3\Property Tax\Property Tax\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\winxp\Desktop\Lab_3\Lab 3\Property Tax\Property Tax\obj\x86\Debug\ConsoleApplication1.Resources.resources
+C:\Users\winxp\Desktop\Lab_3\Lab 3\Property Tax\Property Tax\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\winxp\Desktop\Lab_3\Lab 3\Property Tax\Property Tax\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\winxp\Desktop\Lab_3\Lab 3\Property Tax\Property Tax\obj\x86\Debug\Property Tax.exe
+C:\Users\winxp\Desktop\Lab_3\Lab 3\Property Tax\Property Tax\obj\x86\Debug\Property Tax.xml
+C:\Users\winxp\Desktop\Lab_3\Lab 3\Property Tax\Property Tax\obj\x86\Debug\Property Tax.pdb
+E:\COD CLASS\Programming Logic and Technique\Assignment\Lab 3\Property Tax\Property Tax\obj\x86\Debug\Property Tax.exe
+E:\COD CLASS\Programming Logic and Technique\Assignment\Lab 3\Property Tax\Property Tax\obj\x86\Debug\Property Tax.xml
+E:\COD CLASS\Programming Logic and Technique\Assignment\Lab 3\Property Tax\Property Tax\obj\x86\Debug\Property Tax.pdb
